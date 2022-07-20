@@ -2,6 +2,8 @@
 
 > Creating hospital schema from existing Entity-Relationship Diagram
 
+![image](https://user-images.githubusercontent.com/58822719/179870127-733aa3e6-4495-4aad-a21b-5f5bb47b3a07.png)
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
