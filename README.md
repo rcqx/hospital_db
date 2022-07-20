@@ -1,4 +1,4 @@
-# A hosital db from a ERD diagram 💾
+# A hospital db from a ERD diagram 💾
 
 > Creating hospital schema from existing Entity-Relationship Diagram
 
